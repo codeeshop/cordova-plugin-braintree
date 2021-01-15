@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-braintree",
+  "version": "0.0.1",
+  "description": "Braintree Payment Gateway",
+  "cordova": {
+    "id": "com.codeeshop.braintree",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeeshop/cordova-plugin-braintree.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "codeeshop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeeshop/cordova-plugin-braintree/issues"
+  },
+  "homepage": "https://github.com/codeeshop/cordova-plugin-braintree#readme"
+}
